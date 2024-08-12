@@ -1,1 +1,1 @@
-pyinstaller main.py --onefile --icon empty.ico
+pyinstaller main.py --onefile --icon images/exe.ico
