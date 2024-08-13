@@ -10,7 +10,7 @@ Copy the url
 ![copy](images/image-4.png)
 
 Replace `YOUR PASTEBIN URL HERE` to your url in `utils/Enviroment.py`
-![replace](images/image-5.png)
+![replace](image.png)
 
 Execute `pip install pyinstaller` and `build.bat`
 
